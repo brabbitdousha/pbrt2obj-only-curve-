@@ -10,3 +10,8 @@ and get the .obj as follow:
 
 
 ![img](photo/out1.png)
+
+render all of [straight-hair](https://github.com/mmp/pbrt-v4-scenes/tree/master/hair/geometry)!
+
+![img](photo/out2.png)
+
